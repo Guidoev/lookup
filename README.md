@@ -25,8 +25,9 @@ Questo strumento è ideale per chi desidera archiviare e recuperare informazioni
 ## Screenshot
 
 <p align="center">
-  <img src="examples/both.png" alt="Schermata principale" width="75%" style="margin-right: 10px;">
+  <img src="examples/both.png" alt="Schermata principale" width="75%">
   <img src="examples/edit.png" alt="Possibilità di modifica" width="75%">
+  <img src="examples/features.png" alt="Nueve funzionalità" width="75%">
 </p>
 
 ---
