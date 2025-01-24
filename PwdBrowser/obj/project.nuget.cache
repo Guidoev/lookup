@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQbn7bIVS5PCGesBNQivYVUHD37HfeijH00MZztgAbqAa8RV0iLpe4DmXHT0cCKcOgSW4KwiVNK4Tto+M+OuMw==",
+  "success": true,
+  "projectFilePath": "D:\\Guido\\Documents\\Programming\\Project Papo\\PwdBrowser\\LookUp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

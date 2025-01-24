@@ -1,0 +1,1003 @@
+# Elenco telefonico
+# 
+# La ricerca e' case-insensitive
+# 
+# % toggla fra normale e highlight (rosso)
+#
+Riccardo Baroetto (Olivetti)\
+Olivier Carbonaro %1 4965 5535%\
+Manuale SonRtip EU=%U298%, US=%O814%-->%U965%(%MISC3491%), CAN=%U103%\
+Michael Page pwd=%Inalambrico1%\
+Fulvio Brustia %806750% - Studio AREA %806095%\
+#Baro Adriano (Qualita' Produzione) %567377%\
+Mantovani %410273%   - FAX (Comune) %46294%\
+Cossavella 1 %641403% (anche FAX)
+Cossavella 2 %641429%\
+Beethoven Haus, Lella   %011/887750%\
+Riccardo Ravera %778104% - Cell. %0337%-%209198% - Casa %59655%\
+#Alex Rolle %0124/77605% - Scuola %011/883636%\
+Alex Quagliotti %239018% - Lavoro (TRACO) %675995%
+Rosaria Stamura %59571%
+Lella %011/655478% v. belfiore 50
+#Storyville v. S. Massimo 14, Torino  -> %011/882336%
+#Storyville (Alberto Asteggiano casa) -> %011/4367156%
+Denicar FIAT (Romagnoli) %02/4525741  4525742%
+ACSIS %02/48022522%  -  FAX %02/48012289%   (Fusaschi, Caccia)
+Cadence %02/575581%                        (Riccardo Oddone, Davide Ferrara)
+Cadence FAX %02/8254187%                   (Riccardo Oddone, Davide Ferrara)
+SAT - Assistenza Elettrodomestici %424600% (Lavatrice = Siemens SIWAMAT XL540 ELECTRONIC)
+Andrea Stracuzzi %613140%
+Giuliano Battistino %567860%
+Massimo Bornacin %569864%
+Roberto <Bob Porcelli> Gotta %567096%
+Gianfranco Bruna %567629%
+APT Ivrea: Dir. Uff. Propaganda %618195%  --  Amm.ne e Direz. %618131% - FAX %618140%
+Massimo Stracuzzi %569595% - Casa %617025%
+Giovanni Castagnini %567350%
+Mimmo Pignataro TUV Italia %0125%-%636931%
+Riccardo Oddone Email     %ric@cadence.com%
+# Luca Vitali (mia) Email    %vitalil@wgpo03.ico.olivetti.com%
+# Luca Vitali (mia) Email    %l_vtl@sorin-rdpm.it%
+G. C. Andra'  %516744%
+Gianni Francescon %567571%
+Massimo Auda  %59515% -- Lavoro %57115%
+Montandon %0041%-%22%-%37%.%28%.%232%
+Pandacar Autonoleggio - %612603% -- %0339%-%1109850%
+Erniani/Ruffino lav. %57467%  --  casa %%
+Claudio Lodati %011%-%8172527%
+Comune di Ivrea - P.za Ferruccio Nazionale, 1 - P.I. 00519320014
+Claudio Alberto casa %011%-%9833607%
+AICS (Ramella) %011%-%5613925%, %5617045%  -- FAX %5611828%
+Carlo Actis Dato %011%-%9830236%\
+Albergo "LUCA" %47843%\
+Cannavacciuolo %011%-%283780%  -- cell. %338%-%2033087%\
+#Agenzia Viaggi SADA %46742%
+#Agenzia Viaggi SAIT %49049%
+#Agenzia Viaggi BREWSTER %45443%
+Auditorium RAI biglietteria %011%-%8104653% - info v. Unione Musicale
+Alberto Benedetto uff. %0125%-%645%.%3543% - Casa %670%.%964%
+Claudio Benedetto uff. %0166%-%62482%
+Gianni Masciopinto %511426%
+Adriano Oberto casa %757206%
+Gabriele Ferraris  -- La Stampa %011-65681% - %011-65881%
+Luca Fini Ufficio %615431%
+APT Torino %011%-%535181%
+Rocco De Lucia %650955%
+Giovanni Flochen (Rete Canavese) %0124%-%650342% -- FAX %0124%-%650343%
+Grillo Dentista %49770%
+Gianotti Tipografia %650372%
+Giolito ufficio %556469%
+Davide Gamba casa %424649%
+Mauro Anzola -- casa %239282%  --  lavoro %40568%
+Maurizio Brunod casa %617947%
+Maggiorotti casa %425017% - studio %48658% - montagna %307086%
+Pinato %615022%
+Graziano Picco %234352%
+Portineria Scarmagno D/E %567361%
+Mauro Revello casa %54377%  --  uff. %43614%
+G.Carlo Roncaglia %011%-%724052%
+Settembre Musica biglietti %011%-%5620450  011%-%544691%  h0900-1300
+Sotto la Scala %47531%
+Verde (Maurizio) (Strumenti Musicali) %011%-%9988016  9988662%
+Unione Musicale (RAI) TO - %011%-%544523   011%-%5575188% h0930-1230 e 1630-1800
+Marco Chini Balla %47439%
+Giovanni Vitali e Mariangela casa nuova %02-4984340%
+CAD ICO: Savino Grillo %511213%  - Moreno Freguglia %518029%
+Schinco (segr.) - %511827%
+DELPHI/SUN Linea Verde Assistenza - %1678-30099%
+Percussioni - %06%-%3039250%
+Liana (Masero) - %518624%
+Campo Aperto %569697 567224%
+Franco Giorgio %567538% - Casa %45734% (Lago Sirio)
+Bidin - %567059%
+Luca Bert - %56----%
+Gianni Messina - %567049%
+Antonio Buonora Email - %buonora@xsft1%
+A. Schinco Email - %schinco@xsft7%
+C. Leveratto Email - %leverat@xsft1%
+S. Grillo Email - %grillo@cavour%
+L. Bert Email - %lucab@xsft2%
+G. C. Andra' Email - %andragc@cavour%
+G. Castagnini Email - %gcasta@king%
+G. Burrone Email - %burrone@iconet%
+M. Salaris Email - %micheles@iconet%
+I. Gregori Email - %gregori@strobe%
+G. Masciopinto Email - %masciog@wgpo01%
+Roberto Rosaia Email - %robros@cadence.com%
+Massimo Tarantini Email - %massimo@cadence.com%
+Alberto Fusaschi Email - %acsis@attmail.com%
+Raffaele Ercole Email - %raff@lmc.com%
+Tim Hopes Email - %timh@lmc.com%
+CDMAIL - %45502%
+Ferrari Email - %ferrari@vaxdsc%
+Sala CAD %567835%
+Rolfo (reti) %567306%
+Ivan Gasparini fotografo (Trixallis) %424547%
+Antonio Buonora %516800%
+Adri e Patrizia %727513%
+Paolo Gallingani %511861%
+Hotel La Serra %44341%
+Corsinotti %011/6192049%
+Francesco Zaccagnini casa %46887% - uff. %76125%-%76282%
+Zanaboni Libreria %011-6505516%
+Adriano Valota lav. %574717% - %574539% - casa %727513%
+Novauto FIAT %251520%
+Teatro Regio  - P.za Castello 215 Torino - %011/88.15.1% Bigl. %88.15.241%
+Teatro Carignano - P.za Carignano 8 Torino - %011/53.79.88%
+Teatro Stabile Torino (TST) Uffici %011%-%5169411%
+Teatro Alfieri - P.za Solferino 4 Torino - %011/562.38.00%
+A.M. di Brunod Torino %0330 - 669452%
+Albino Uazzaz %567049%
+Nino Niosi %518215%
+Sandro Gadda (Milano) %723630%
+Sergio Pedri %569550%
+Vincenzo Giovannini %569505% - %569506%
+ACER Taiwan %00886%-%2%-%545%.%5299% - David Shen %6085% - Rita Huang %6084%
+Koine' (Annarosa Andrei) %45837% - %45768%
+#Paolo Malisan %567305%
+Caroline Farmacia %637565%
+Comune di Cascinette %615731%
+Lavezzo Assessore Cascinette %616083%
+Daniela Zola (Pizzul/Luzzip) %529664%
+ELEA Segreteria Corsi %599359%
+Lele Perotti uff: %0033%-%607932594%  casa: ?
+Valter Prandstatter %518312% - Email %prand@oliserv2.ico.olivetti.com%
+Acchito Caluso %011%-%9832508%
+#Stefano Franceschini %569868% - Lab %569626%
+Daniela Franchino %567068%
+Teatro Stabile TO (TST) Info/Bigl: v.Roma 49 h10-18 tel %011%-%517%.%62%.%46% - %544%.%562%
+Responsabile corsi ELEA: De Bernardi %599301%
+GBC Negrini - %251434%
+LMC Supporto (dopo Fusaschi): Boggiali Synopsys %039%-%6899615%
+Riccardo Oppo %569815%
+Elena Aluffi Omnitel %511792%
+Fulvio Brustia Omnitel %511956%
+Pierangelo Tardito %567072%
+Patrizia Durando Acquisti %567055% - FAX %567783%
+Paolo Tosin %567252%
+Elan Tsao - Olivetti Taiwan - Voce %00886%-%27326557% FAX %8384%/%4427%
+Giovanni Bianchini %567611%
+Federica Ciochetto %567545%
+Claudia Gumina %611742%
+Giovanni Vitali Email %giovanni.vitali@galactica.it%
+Merula Bra (Strumenti Musicali) %0172%-%495591%
+Salotto Musicale Merizzi (Strumenti Musicali) %011%-%6632386%
+Maria Antonietta Romano %567861%
+Cinema Teatro Agnelli - v. P. Sarpi 111/A (TO) %011%-%612.136%
+zia Barenghi %02%-%39219198%
+Luigi Vitali babbo cell. %0348%/%7080616% - %0329%-%9013932%
+Luigi Vitali babbo Thema Ass. %48003756%
+Alessandro Mancino %567805%
+Massimo Sardo %567805%
+Diego Oberto %553282%
+Paolo Tosin Casa %48780% - Genitori %234786%
+#Elisabetta Vitali Omnitel (Lavoro) %02%-%4143%.%3223%
+BBS Intel USA %001%-%503%-%6456275%
+BBS Intel UK  %0044%-%793%-%432955%
+American Games (ATARI) %011%-%548920% (2 mon. ripar. 180-200KL - tel dal 1402)
+Telemontecarlo (TMC) Tel. %06%-%355841% - Fax TG %06%-%35584227%
+Claudio Vattaneo %569514%
+Fabrizio Noe %569514%
+Umberto Frangi (NSC Italia) Voce %02%-%57500300% - FAX %02%-%57500400%
+Roland Dorn (NSC Germania) Voce %0049%-%8141%-%350%.%???% - FAX %0049%-%8141%-%???%.%???%
+Avvenimenti - %v. dei Magazzini Generali 8E/10% - %00154 ROMA%
+Avvenimenti - Tel. %06%-%571%.%05%.%1% - FAX %06%-%571%.%05%.%212% - Amm./Promoz. %06%-%571%.%05%.%211%
+Alessandra Bresciano %757246% - Sotto %757912%
+Giovanni Zublena %567175%
+Questura di Torino - centralino %011%-%55881%
+Olivetti Pozzuoli Centralino %7819%
+Carabinieri Banchette - Comando Compagnia %641371% - Comando Stazione %641388%
+Bonaveri NSC - Ufficio Torino %011%-%6635971%
+Umberto Basile (Pozzuoli) %781%.%3685% - Lab. %781%.%3495%
+Pina Renzulli (Pozzuoli) %781%.%3411%
+Laboratorio Pozzuoli (Barbaraci) %781%.%3210%
+Ciro Sammarcellino (Pozzuoli) %781%.%3332%
+Giovanni Vacca (Pozzuoli) %781%.%3249%
+Antonio Celi (Pozzuoli) %781%.%3210% - Lab. %781%.%3495% - Uff. %781%.%3282%
+#Uff. Viaggi (Franca) %552385%
+Autorimessa (Spostam. Auto) %523075%/%3076% - Fuori orario %522423% (Centr. Oper.)
+Pasquale d'Italia (Pozzuoli) Lab. %781%.%3234%/%3598% 
+Pozzuoli FAX %781%.%3799%
+Rosanna Caponigro (Pozzuoli) %781%.%3612% ???????
+Ilio Paccapelo %781%.%3406%
+Riccardo Leite Uff %408%.%523%.%1351% - Cell. %408%.%921%.%4514% - Home %415%.%968%.%0737%
+Andrea Sanna %567259%
+Lorenzo Molinelli %567069%
+Ciro Sammarcellino login su %oto%: %sammarce%, %cirius3332cirius%
+# FAX Varesio (Nostro) %569996%
+ATI Technologies Canada %905%-%882%-%2600%
+Mitchell Impey (ATI Germany) - %++49%-%89%-%46090732%
+PierGiuseppe Zanotti %567213%
+Roberto Volontieri %02%-%484341%
+Giorgio Rigola %516769% - %511090% - Casa %650%.%834%
+Sean Long (NSC USA) Prod Launch Mgr - Tel (%408%) %721 3046% - Fax (%408%) %737 7218%
+Richard Hofman (NSC USA) - Tel (%408%) %721 6304%
+Antonio Campanella %567637% - Lab. %567144%
+Pino Siccardi %567010%
+Casa Mentone %0033%-%93%.%35%.%91%.%69%
+Consiglio di Fabbrica ICO %511538%
+Mario Lorenzi %569568%
+Marco Vasino %% - lab. %56%.%9467%
+Romano FAX %569736%
+Elisabetta Vitali Casa %02%-%3084078% Nuova %48201056%
+Elisabetta Vitali Cell.  %347%.%7114445%
+Lucia (segr. Paccapelo - Pozzuoli) %781%-%3580%
+Antonio Napolitano Pozzuoli %781%.%3266%
+FAX Pozzuoli %081%-%853%.%3799%
+Lab SW Pozzuoli %781%.%3234%
+Peppe Esposito Pozzuoli %781%.%3282%
+Antonio Fresa Pozzuoli %781%.%3522%
+Franco Provera %569428%
+Ernesto Bosone %569635%
+Toninelli GPL %57368%  (figlio = Enrico)
+Maurizio Chalp %511375%
+Zia Anna %011%/%337884%
+3COM Mediterraneo Tel. %02%/%27302041% - FAX %02%/%27304244%
+Raffaele Orso Giacone %54819%
+Maurizio Romano cell. %0348%/%2270620%
+# Magaton Personale (Pastore) %567248%-%569741% - FAX %569752%
+Alessandra Savoie (Morgex) %0165%-%809053%
+Edi Lo Valvo %567442%
+Laura Spezia cell. %0336%-%888%.%563%
+Massimo Bertagna %516845%
+Rosario Iossa Pozzuoli %781%-%3337%, %781%-%3596%
+Lucia Lezzi %518202%
+Cantina EMI %567572%
+Mauro Piana %569980%
+EKO %0733%/%226271% (Tecnico: Paolo Mencoboni)
+Brustia Pasticceria %616%.%598%
+Smaltimento (Pistono Elio) %569804%
+Schedarista Caretto %569793%
+Brian Uff. %039%/%6035294% - Lab. Castelletto %02%-%93519401%
+Brustia Padre %615%.%338%
+Obe (Adriano Oberto) uff. %511452% (= Bertagna) - Sala Op. %516893%
+Lorenzo Sarchi (Sgs-Thomson Assago) - %02%-%575%.%46%.%208%
+ST Bristol %0044%-%1454%.%6166%.%16% - FAX %6179%.%10%
+Franceschini %87704%
+Franco Garda %529889% - (casa) %77452%
+Stefano Sorin %0161%-%487704%
+Libretto di lavoro Sig.ra Bassi PU1 2^P ala C (uff. amministr.)
+Certificato contributo SSN sig. Grasso %52%.%2883%
+Enzo (Enzullo) Nigrone %52%.%9700%
+Claudio Rosa %52%.%7196%  -  %52%.%7682%
+Enrico Gozzo (Ditta GOMA) %011%/%77%.%25%.%024% (R.A.) - %71%.%28%.%66%/%97% - FAX %71%.%22%.%98%
+GOMA --> sig. Michelis
+Nicola Cescato (National Instruments) - %02%/%413%.%09%.%1% / Cell %348 23 33 296%
+Alboresi (Pagamento Fatture) %87307%
+Luciano Rocco (EGS Elettronica) %011%-%9713207% -- FAX %idem% Cell. %335%-%603%.%24%.%59%
+Foglia (Acquisti) %87877% - casella n. %25%
+Uff. Arrivi (Magazzino Centrale) Ilario Biasion %87815% FAX %87597% (posta 17)
+COMELEC (broker) sig. Ghiga %011%-%9367757% (n. breve %7694%)
+INTESA (Prodotti informatici) Numero Breve %7905% Sig. Roberto Cagliero
+INTESA sig. Cagliero tel. diretto %011%-%7755%.%473%  FAX .%471%
+ANALOG (Prodotti informatici) Numero Breve %7322% Sig. Tocco
+Laboratorio Elettronica PM (mio) %87506%
+Max Ponte %87038%
+Daniela Roggero %87655% (Giuse Ferrero) - cell. %335%.%82 68 897%
+Cinzia Torreano %87386%
+Nostro Fax (nfax) %0161%-%487%.%575%
+Anna Maria Beccaris (Diagnostici) %87491% (Posta n. 4)
+Marzanati Gianni - Cascinette %615233% - Cell. %0335%-%604%.%61%.%14%
+Sorin  %v. per Crescentino - 13040 Saluggia (VC)% - Tel. %0161%/%487%.%011%
+Sorin  FAX %0161%/%487%.%575%
+Alessandro Bonetti (Sorin Bologna) %051%-%636%.%48%.%88%
+Luigi Bedin Studio %613024% - cell. %0348%-%22%.%51%.%362%
+Codice di Accesso ns telefono %1412%
+Giorgio Pirani %87371%
+Giovanni Vitali cell. SUO:%0347%/%2727639%
+Giovanni Vitali cell. %348%-%0705114%
+Schiavetta %615275% FAX %251548%
+Tha Chiuni %40431%
+Gabriele Pieraccini (Ospedale Bologna) %051%.%6364597%
+Baltea Agenzia Auto %49019%
+Massimo Daly %44364%
+Franco Giorgio cell. %0348%/%2682288%
+Paolo Gazzetto Meccanico Vestigne' %0125%-%77356% FAX %0125%-%677900%
+RPE (Computer) Romano Prola %613306%
+Farmacia di Albiano %59591% (sopra e sotto) - %590100% (solo sotto)
+Doriano Basso (Valvole) %87344%
+Pastor Ris amb. Albiano %414488% - casa %637529%
+Corrado Geometra Studio %57%.%77%.%64% - Cell. %0347%/%455%.%43%.%27%
+Sabina Ceravolo (Personale Cardio) %87673% - FAX %87645% - Posta %26%
+Alessandro Starace %87702%
+Mario Ferraris Personale %87305% - posta 26
+FASIQ %011%-%686%.%3118%
+Quadripiu' Sig.ra Poggio %011%-%5596%.%613%
+PT Uff. Rilascio Licenze Radioamatore 011/5763443 v. Arsenale 13 sig. Buccisca
+PT Uff. Rilascio Patenti Radioamatore 011/5763442 v. Arsenale 13 sig. Mazzocchi
+Cimadamore Casa %713990% - Farm. %650330%
+Codice Fiscale Tommaso  %VTL TMS 98E26 L219Z%
+Codice Fiscale Guido  %VTL GDR 99M09 L219O%
+Codice Fiscale Alessandra  %BRS LSN 66P41 E379C%
+Pozzo Amministratore %0125%-%59377%
+Maurizio Bonavita (brevetti) %87890%
+Top Soft (Novara) N.Breve %117401% - Tel. %0321 420811% - FAX %0321 420820% Matteo
+Gabetti - Alberto Bich - %0125%-%45%.%148% - Cell. %0335%-%8114244%
+Adonis Kobeissi - SORIN France - %0033%-%1 4601 8968%
+Paolo Miglietta %87239% - %116800%
+#Emilio Salari CED %87750%
+Alberto Borri Brunetto %87211% Cell. %335%-%6997104%
+Nico Bijno %87924% - FAX %87524%
+Notaio Ugo Presbitero - 21 p. V. Eman. IVREA %0125%-%40222% %40258%
+Notaio Ugo Presbitero Cuorgne' %0124%-%657216%
+Claudio Ceron %87823% - cell. %333%-%6693301%
+Magazzino Centrale %87388% / %87252% Emma Bianco / Gilberto Bobbiese
+Infermeria %87423%
+Vincenzo Piramide (PI Italia) %02%-%66501101%/%09% FAX %02%-%66501456%
+Officina FIAT ZOLA Cigliano %0161%-%423163%
+Emanuela Marcelli Ospedale %051%-%6364603%  FAX %051%-%6364605%
+Emanuela Marcelli cell. %338%/%1567300%
+Emanuela Marcelli 3S %051%-%302804%
+Emanuela Marcelli Sperimentale %051%-%6366254%
+Fabrizio Renesto %87502%
+Roberta Alsino Personale %87987% - posta 26
+Sara Bosca %87867% -> Claudia Fenoglio %87068% -> Stefano Valerio (stesso num)
+San Paolo %0125%-%4111% CONTO NUOVO: ABI %1025% CAB %30540% N. %10/129681%
+San Paolo %www%.%intesasanpaolo%.%com% Cod. Cliente %00%.%131%.%643% pin=%17285%
+Officina Meccanica SORIN %87283%
+Umberto Spagnolini Poli Milano %02%-%2399%-%3452%
+Elisabetta Fabbian (Lisa) %87002%
+Cristina Fardin %87901% - cell. %347%.%46 24 543%
+Dirk Roessger PI %0049%-%36604%-%882%-%20%  FAX -%25%
+Dirk Roessger PI Ceramic --> segr. Barbel Kosanetzky
+Lino Acotto ISCM %11%-%6925%  (%011%-%9837636%) (segretaria VALERIA)
+Lino Acotto ISCM cell. %338%-%2674062% Casa %011%-%9837418%
+Guardiola (Portineria) %87601%
+Commissariato Ivrea %0125%-%233811% - Uff. Passaporti %233836%
+Sella (Telefonica) - %800%-%328%-%328% PIN %3906% - C.CL. %00535711% - frase controllo = oscar123 - alias = luca99
+Sella Ivrea C.so Vercelli %0125%-%616%.%821%
+Dappiano %87703% Prod. %87393% - Confezionam. %87387%
+Patrizia Pramaggiore %87480%
+Boglietti Orio %011%-%9898917%  -  Cell. %0347%-%2653615%
+Fabrizio Renesto cell. %0348%-%8101821%
+FIR (+BRICO) %0125%-%615538% %615039% %617490%
+Vizzuti (segr. Barberis) %87209%
+Pitetti %0125%-%616800%
+Tricerro Daniela %87323% MKTG VALVOLE
+VIACARD %06%-%4353%.%33%.%33% COD.CLIENTE %9902466%.%30%
+Casa nostra %0125%-%712849%
+Osp. Niguarda - Elettrofisiologia - Sala Op. %02%-%6444%.%2187%
+Osp. Niguarda - Elettrofisiologia - FAX %02%-%6444%.%2943%
+Osp. Niguarda - Fabio Tri'dici - Roberta
+Osp. Niguarda - Dott. Lunati %02%-%6444%.%2611% -> Magenta
+Osp. Niguarda - Dott. Lunati cell. %0335%-%6478202%
+Andrea Zammignan %87887%
+Uff Trasporti Sig.ra Spada %87883%
+Ghiglieno - Daniela Cappelletti - %0125%-%4238206%
+Poli TO (sede Ivrea) sig.ra Comoglio - %0125%-%632519%
+Pascarella - Clima System -%0125%-%49268% o %424361%
+Fabio Migliore %87021% - Prod. %87383%
+Laura Donetti Casa %011%-%7490043% - Casa Genitori %011%-%4374167%
+Claudio Bertuzzi %87284%
+Metalli Preziosi N. Breve %11%-%7713% sig. Napolitano
+Metalli Preziosi: fili sig.ra Varisco %02%-%9188%.%313%
+Ugo Pesalovo %87385%
+Maria Martino %87826%
+Deharo cell. %0033%-%674%.%937%.%485%
+Adonis Kobeissi cell. %0033%-%616%.%390%.%349%
+Deharo Segreteria %0033%-%491744525%
+Deharo Ufficio %0033%-%491386462%
+Deharo Segr. (?) %0033%-%491386575%
+Augusta Assicurazioni - %011%-%0063118% - FAX %011%-%0063947%
+Steve Jeffery, M&I Metals %+44%-%161%-%8752235%
+USL Strambino %0125%-%414628% - Centralino %414600% - Visite Patente %414010%
+Sella Romano %0125%-%712341% (Mercenasco %0125/565002%)
+Condominio Viale Marconi CAB %30880% ABI %3268% N. Conto %3301 862 825 540%
+Melania Pasteris %87483% - cell. %116705%
+Caterino Amministratore %0125%-%637414%
+Ospedale Cuorgne' %0124%-%654111%
+Aurora Ingegneria %011%.%3828425% - Ing. Brogna - Ing. Speziani
+Aurora Ingegneria ing.Tognotti cell. %333%.%3643754%
+Dr. Victor CHU Angers %+33%-%241353481%; FAX %+33%-%241354005%
+Dr. Victor Segreteria %+33%-%241354858%
+Laura Donetti Uff. %011%-%7576759%
+Mario Ponzetto %87426% Cercapersone %113426%
+Pascarella %348-2641279% - Installatore sig. VIAN %333%-%3400898%
+Tektronix Rappresentante sig. Riassetto %011%-%7710974%
+Valeria casa %0125%-%53981% - studio %0124%-%35868% - cell %0333%-%4045111%
+Laura Gillio Meina %87788% Cell. %335%-%8268906%
+Angelo Bernasconi %87223% Cell. %335%.%8268895%
+#Roberto Rosso %87887% Lab. %87738%
+Claudio Poli %335%-%8152701%
+Stefano Franceschini cell. %348%-%0133493%
+Piumatti Casa %011%-%9189928%
+Marco Sodano casa %0125%-%711345% - Uff %0125%-%522303% - cell. Silvia %340%/%2307826%
+Marco Sodano cell suo %331%-%6040645%
+Daniela Zola (Pizzul) %338%-%6754101% Paolo (sempre acceso) = %335%-%7680176%
+Daniela Zola (Pizzul) uff. %011%-%7720287%
+Moretto Microchip Technology %039%-%657911%
+Wolframcarb Castellamonte %0124%-%513650% Commerciale Dario
+Morgan Electro Ceramics Antonella Dennison %0377%.%9740%.%48%
+Gaggini Ela %+33%-%1%-%4601%-%3614%
+Gaggini Cell %335%-%8268888% - %345%.%974%.%15%.%98%
+Adriana Ravera %0125%-%641576%
+Mario Corio cell. %339%-%8550928%
+Vetreria Biava %0125%-%632509%
+IKEA TO %011%-%7073350% %7708416%
+Babbini Remak (APC) %02%-%67072299%
+Sermasi Cardiologia Rimini - Studio %0541%-%705%.%264% rep. %272%
+Vetreria Gialdi %0125%-%616792% specchio=186x107
+Georges Leftheriotis Angers %+33%-%241735840%
+Reverso (CQ finale) %87612% - Prod. %87331% - Accettazione %738%
+Enrico Bresciano cell. %340%-%7698515% uff. %87921% - posta %17%
+Dr. Catalani otorino %0125%-%641178% prenot. lu-ve 1530-1800
+Mille Miglia Alitalia cod. cliente = %1306143% PIN = %3718%
+Centro Copie Strambino %0125%-%637985%
+Marcel Limousin ELA %0033%-%1%-%4601%-%3408%
+Marcel Limousin Cell. %0033%-%6%-%8541%-%1011%
+Philippe Ritter ELA %0033%-%1%-%4601%-%3412%
+Chemical Machining %ing. Mutti% - mutti@cm-italia.it tel. %02%-%533344%
+R.D. Tommaso %3310 981 539 140%
+Omnitel username=LucaGuido.Vitali, pwd=exeter
+Omnitel Codici 348...=558747; 349...=386153
+Andrea Vittone %87612% %87978%
+Nico Bijno cell. %335%-%8268886%
+Loredana Ariagno Marketing (mktg) %87647%
+#Graziano Bertin Viaggi %87267%
+Olivier Molant %+33%-%611%.%403%.%778%
+Gandolfo casa %011%-%3857640%. cell. %338%-%3632125%
+Gandolfo --> dott. Carrozzo cell. %349%-%5653604%
+Spedizioni/Customer Service Cristiana Ardemagni %87650%
+Mamma Cell %347%-%2666045%
+/Catalani Torino %011%-%3044001%
+Micra - Cavaglia' v.Pastore 9 - MeGiVe h10-12 e 14-18, tel 0161-967326
+Micra - Gaglianico v.Galliano 86 - SaDo 0920-1230 e Sa 1430-1830, tel 015-541563
+ECC Elettronica %02%.%903971% (2sk3019)
+Uff. Fatturazione Sig.ra Fasolo %87351%
+Pier Quinci %0125%-%757417%
+Alain Thia Portable %0033%-%620145137% - Domicile %0033%-%241451561%
+Alain Thia Faculte' %0033%-%241735922% - %0033%-%241735936%
+Alain Thia Ufficio %0033%-%241353392%
+Jean-Loup Rottembourg %0033%-%1%-%4601%-%3311%
+Sarteur Giuliana Studio %0125%-%615650%
+Piero Cappa %87705%
+Thierry Legay ELA %0033%-%1%-%4601%-%3457%
+Carlo Minerva (PCB CAD Place/Route) - %011%-%953 48 22% cell. %392%-%62 88 253% - email %caminer%@%teletu%.%it%
+Paleologo nuovi numeri %011%-%978 09 12% - FAX %011%-%583 01 05% e %011%-%978 36 66%
+Renesto Cell. Sorin %335%-%1005009%
+Romildo Locatelli - %87574% - casa %011%-%91 89 782%
+Barbara Bologna Cell. %347%-%1759935% %329%-%1185277%
+Roberto Scenna %015%-%2520811% %335%-%5868552%
+Omnimania Strambino %0125%-%639252%
+Assistenza Lavastoviglie Whirlpool %0125%-%617375%
+Lavastoviglie Whirlpool mod. ADP970 854297038020 SN 339606014930
+Farmacia Internazionale Merloni - Chiasso %0041%.%91%/%690%.%10%.%50%
+Yves Faisandier %0033%.%1%.%4601%.%3391%
+Goodfellow - Prodotti Gianni - dr.ssa Claudia Albani %02%-%5097228%
+Goodfellow - Prodotti Gianni - Centralino %02%-%5097220%
+Francesco Fritz ELA %0033%-%1%-%4601%-%3377%
+Belletti %87503% cell. 348-3535280
+Mogno laboratorio %87272%
+Pinto Torino %011%-%5211953%   FAX %011%-%4360603% Sig. Pierluigi
+Gianluca Pressi Studio %0161%-%433492%
+Lucia Pizzo %87090%
+Liceo Musicale Ivrea %0125%-%641081%
+Graziano Caggia %87238%
+Philippe Ritter cell. %0033%-%6%-%09%.%777%.%044%
+Oculista Bongioanni %011%-%9832113%
+Oculista Aimino %0125%-%44155%
+Mollificio Aurora - Sig. Claudio Crisostomo %011%.%9575496% - FAX %011%.%9575566%
+Mathworks info mdmichele@mathworks.it
+Eurolaser %0125%-%675062% FAX %0125%-%676873% - Sig. Francescotti
+Gaviglio %87812%
+Dominique %0032%-%495573645%
+Jean-Loup Rottembourg cell. %+33%-%675%-%272%-%596% NON DARE IN GIRO
+Giovanni Catto ELA %0033%-%1%-%4601%-%3207%
+Frederic Anselme Rouen cell. %0033%-%623%.%573%.%598%
+Frederic Anselme Rouen uff. %0033%-%2%.%3288%.%8111%
+Frederic Anselme Rouen uff. %0033%-%2%.%3288%.%6674%
+Frederic Anselme Rouen ecografista Fabrice Bauer
+Armando Vassia TUV Italia prove termiche %0125%-%636971%
+Login ESC: lvitali - pwd=kardio
+Francesca Tronconi cell. %347%-%1183636%
+San Paolo Mutui Beccio/xxx %4111%
+Giovanni Catto cell. %06%-%86497734%
+Philippe Heno %0033%-%4%-%9161%-%7224% cell. %0033%-%6%-%1259%-%2825%
+Stephane Garrigue cell. %0033%-%6%-%27269200%
+Stephane Garrigue CHU %0033%-%5%-%57656471%
+Taronna Auto %87424% / %015%-%2584215% / %0161%-%845318% / CELL. %338%-%3000554%
+Beinasco %011%-%0043210% / %011%-%0043111%
+Amazon: login=email casa; pwd=Mahalanobis
+Frederic Guiho Cell. %0033%-%625%-%708%-%431% - Uff. %4601%-%8983%
+Deharo Casa %0033%-%491%-%57%-%17%-%16%
+Studio Tecnico Paleologo - v. Roma 33 - 10095 Grugliasco (TO)
+Curti Stefano %87894% cell. %335%-%59%.%45%.%806%
+Elodie Vincent Ufficio %0033%-%1%-%4601%-%3665%
+Elodie Vincent Cell. %0033%-%6%-%8369%-%9775%
+Gabriella - Rosetta - Magazzino %26017% (numero interno)
+Loriana Ottino - Giuseppina Massaro %87738% (CA - Controllo Accettazione)
+GS Technology - Raffaele Stoppano - %010%-%918%.%91%.%27%  FAX %010%-%918%.%92%.%16% 
+Stoppano cell %335%.%5495092%
+Contabilita' Chiarello (fatture che devono essere pagate)
+Pagamenti - Fatture Rossella Dallara / Monaco Egle %87761% (v. Contabilita')
+Augusta Assic. Saluggia Lun. %1100-1300% Mer. %1130-1300% Ven. %1030-1200% tel %87424%
+Sara Sguotti cell. %349%-%8322390%
+Gabelli Cell. %347%-%65%.%20%.%002%
+Maria Cristina Porciani cell. %339%-%7380188%
+Maria Cristina Porciani cell. nuovo %329%-%42%.%04%.%319%
+Regione Piemonte Bollo Auto %011%-%432%.%3692%
+Robert Pilage (Holland Medical) %0031%-%65%.%33%.%38%.%225%
+Paola Burattinello %87714%
+Amel Amblard %0033%-%1%.%4601%.%3623%
+Claudio Lesca %87527% - cell. %335%-%57%.%41%.%477%
+Lele Perotti cell. %0033%-%6%-%079%-%325%-%94%
+Daniel Kroiss Grenoble %0033%-%4%-%7618%-%1153% cell. %+33%-%6%-%26%.%98%.%79%.%02%
+Prof. Giovanni Magenes %0382%-%985%.%745% - cell. %335%-%644%.%20%.%47%
+Sorin Montrouge Centralino %4965%.%5555%
+Remi Nitzsche %0033%-%1%-%4601%-%3384%
+Telepass login %alebre99% - pwd %gigiotto%
+Pascal Pons Meylan %+33%-%4%.%7618%-%1156% - cell. %+33 6 876 09 093%
+Cinzia Falcomata %87313%
+Marcello Iachi Bonvin Macellaio %0125%-%757159%
+Alain Ripart %3304% cell. %0033%.%676%.%121%.%355%
+David Wuensch (Sorin Deutschland) Cell.:%++49%-%172%-%8409682% Uff.:%++49%-%251%-%8570120%
+Confezionamento Sterile - Gabriella Boggio %26093% - %87389%
+Prof. Luca Mainardi cell. %340%-%4722071% dipartimento %02%-%2399%.%3347% (anche 3342)
+Nicolas Rosset %3388% - Cell. %++33%.%6%.%2117%.%9656%
+Mainardi FAX %02%-%2399%.%3360%
+Paul Roberts %0044%-%797%.%108%.%3202%
+Anna Vige' %87090%
+Cyrille Casset uff. %3621% %+33%-%6%-%77%.%79%.%79%.%11%
+BASF IT %0%-%00800%.%22%.%73%.%48%.%43%
+Amel Amblard cell. %0033%-%608%.%751%.%755%
+Valentina Magagnin %347%-%9197420%
+Laurent Bourdat ELA %0033%-%1%-%4601%-%3413%
+Rolf Ocklenburg %0049%-%89%.%32301%.%354% - cell. %0049%-%172%.%891%.%82%.%95%
+Marisa - Magazzino Spedizioni %97006%
+Prof. Galloni %011%/%6709125% %6709135% - cell. %339%-%8070110%
+Omino del caffe' %347%-%8561753%
+Yann Poezevara %3409% cell. %0033%-%607%.%526%.%971%
+IN VIVO %+44%-%1844%.%344%.%225%
+Genesys TO %011%-%2179.2157% Parigi %01%-%709%.%948%.%13% #sala=%*853687*% PIN=%*1776*% www.genesys.com
+Maurizio Roccato %87967%
+Tiziana Cena %87393%
+DEPA Cirie' %011%.%9208416%
+Collodoro Salvatore %87375% casella 17 - anche %87819%
+Germano Vallino %87389% - Colata - Laser %366%
+BASF Claudio cell. %347%-%008%.%28%.%31%
+Pier Franco Ravarino %87965%
+Georges Wanderstock LB ext. %3436%
+Marta Antonucci %87416% cell. %348%.%287%.%59%.%22%
+ROHM Trentarossi %02%-%903%.%972%.%41%
+ISCM Cod. Cliente RS %11158133% v. Vittorio Veneto 9/A
+Roberto Bonesso %87422%
+Supporto BASF Saluggia %saluggia.support@basf-it-services.com%
+AEG Riscaldamento feriali %0125%-%627%.%444%  festivi %348%-%650%.%56%.%79%
+Maurizia Salaris %87264%
+Bruna Gastaudo %87764%
+Telecom Login=%LucaGuido.Vitali%, Domanda=%Barenghi%
+Lionel Giorgis cell. %+33%-%6%-%24%-%48%-%11%-%97%
+Luigi Zoccolante Sky Technology %340%.%7762429% - Uff. %02%-%37%.%05%.%12%.%08%
+Renzo dal Molin %3414% - Cell %+33%-%685%.%825%.%250% - Genesys %+33%.%172%.%80%.%85%.%26%
+CQ PMK (Patrizia Barbi / Lucia Vallino / Emanuela / Lucia Saracino) %87331%
+87331%
+Figini Sky Technology %348%-%7603540% %02%-%37051241%
+Christine Henry %3384% - cell. %0033%-%677%.%797%.%910%
+Angela Perrone %87499%
+Sella ALE C.CL. %535776% PIN %3714% Fr.Contr. %Dobutrex% PWD %7D2B93D1%
+Tel BASF Assistenza PC %116500% Help Desk
+Gabriella Grandi %87393%
+Marcello Salio %87444% - Cell. %349%.%30%.%97%.%900%
+Anna Corradi (Franco) %02%-%9302955% / %02%-%93169312%
+Simona Casazza cell. %349%-%5050313%
+Marco Molinatti (Condizionatore) %0125%-%753219%
+Bruno Opessio / Giovanni - Saldatura Laser %26012%
+Gomme Marea 185 65 R14 86 H (poi c'e' una F in un cerchietto)
+Alessandro Prevedoni FG Molle %031%-%950559% - FAX %031%-%951585% - Cell %348%-%709%.%37%.%42%
+Alessandro Prevedoni FG Molle --> Amministr. Laura Prevedoni
+Ceramica Microbest %IC0600 045 002% -> %IC2800 239 026%
+Giampiero Tessiore %87541%
+Filippo Ziglio %87785%
+Sala 315 La Boursidiere %3601%
+Sala 46 La Boursidiere %3611%
+Ufficio Posta %87708% (Oscar ?)
+Sala 215 La Boursidiere %3429%
+NATIONAL INSTRUMENTS Login username=email ufficio pwd=#nipwd
+Frank Moeller PI Ceramic %+49%.%36604%.%882%.%4200%
+Giuseppe Vercellotti %26013%
+Luca Bertino %87223%
+Stellar - Ron Rotter - tel %001%-%601%-%208%-%5929%, fax %001%-%601%-%257%-%3601% rrotter@citlink.net
+Simona Casazza / Concetta Gallo %87139%
+Sebastien Ouchouche %+33%-%1%-%4965%-%5456%
+Sebastien Ouchouche cell. %+33%-%6%-%84%.%48%.%04%.%10%
+m.rauer@piceramic.de ext %264%
+Augusta Assicurazioni Auto Garello %011%-%911 34 15% cell. %335%.%807%.%39%.%89%
+Garello Assicurazioni %327%-%0586019%
+LAMP - Riccardo Laurenti %117708% - %0125%-%739918%, %640184% - FAX %739220%
+LAMP - v. Romano 33 - 10010 Scarmagno (TO) - www.lampgroup.it
+Sala 452 La Boursidiere %3354%
+Daniela Tomellini %87781%
+Auto Sorin Miceli giov. 1400-1530 %87424%
+Sala 125 La Boursidiere %3673%
+Filippo Ziglio %339%.%48%.%54%.%159% - Az. %335%-%457832%
+Sandrine Benard %3653% cell. %06%.%73%.%67%.%12%.%32%
+Catherine Picard %3471% - Cell.%+33%.%6%.%70%.%47%.%76%.%48%
+Bollo Auto Ivrea Autoscuola De Ferrari - Ag. Cassina %0125%-%48167%
+Chiarello Amministrazione %87768%
+Pascal Salome SERMA %+33%-%4%-%38%.%02%.%36%.%87% cell. %+33%-%6%-%80%.%99%.%25%.%15%
+Emmanuel Beguin %3424%
+Manutenzione Silvana Leone %87457%
+Davide Borio %87539% - cell. %340%-%8280031%
+AIRE nome=lgv, pwd=zappullo
+Codice Personale Vodafone Luca %6735572290%
+Codice Personale Vodafone Ale %1921977734%
+Diego Falletti - cell. %347%-%064%.%24%.%88%
+Elena Gonzina %87031%
+Cucina Italiana Login Ale: id utente=%uffa123%, pwd=%b41i2T4F%, cod. abbonato=%457712388%
+Cemisa %011%-%4377550%
+Karima Amara %3440%
+Fonchim cod. aderente %179074% pwd %0308865010%
+Pascal Schwab Valtronic %+41%-%21%.%841%.%02%.%08%
+Prof. Giancarlo Genta %011%-%564%.%69%.%22%
+Mauro Ercolani %06%-%91602870% - mauro.ercolani@newcortec.com
+Accellent Michel Reimer michel.reimer@accellent.com
+Miles and More Airone id=%lgv541% - pwd=%oppioppoli%
+Herve Gaillard %3659%
+Anne Dubreuil %3435%
+Sala 358 La Boursidiere %3644%
+Stephane Richer %+33%-%14965%.%5510%
+Bonino Aldo Officina Distributore %0161%-%486333%
+Melanie Mullemeester %3307%
+Gregoire Veber %+33%-%1%-%4965%-%5483% cell. %+33%.%6%.%078%.%701%.%76%
+Fabrice Gayral Grenoble %0033%-%4%-%7618%-%1162%
+Jean-Baptiste Mancini %0033%-%4%-%7618%-%1152%
+Ufficio Posta email %ufficio.posta@sorin.com%
+prof. Nicola Pugno %011%-%564%.%4902%
+AVIS autonoleggio %0125%-%424179% 0830-1230 1430-1830 - cell-%346%-%367%.%73%.%37%
+#Carlson Wagonlit agenzia viaggi %117699% Simona - Liliana
+Miles And More Airone tessera %9920 0336 6586 463% pin %31853%
+OMBI / Tecnocontrol sig. Montanaro %335%-%5980500%
+freepatentsonline login=%luca%.%vitali%@%sorin%.%com% pwd=%adelina%
+Intraela %luca.vitali% pwd=%luca2589%
+Jean-Francois Ollivier - La Boursidiere %3275%
+Sala Riunioni 2 %87976%
+Sala Riunioni sotto (produzione) %87737%
+Frederic Batte %3361%
+Voli Parigi VOLAREWEB MXPT2 %0755% --> ORY %0915%  ORY %1920% --> MXPT2 %2040%
+Voli Parigi AIRONE TRN %0640% --> CDG %0815%  CDG %1925% --> TRN %2050%
+Voli Parigi AIRONE TRN %1710% --> CDG %1835%  CDG %0840% --> TRN %1005%
+Voli Parigi EASYJET LIN %1300% --> ORY %1425% 
+Voli Parigi EASYJET ORY %1100% --> LIN %1225% 
+Voli Parigi EASYJET MXP %0630% --> CDG %0705%
+Voli Parigi EASYJET MXP %1925% --> CDG %2055%
+Voli Parigi EASYJET CDG %1330% --> MXP %1500%
+Voli Parigi EASYJET CDG %0835% --> MXP %1005%
+Voli Parigi EASYJET CDG %2020% --> MXP %2150%
+Silvia Pascale %87335%
+Yevgeny Perelman cell. %+972%-%506%.%36%.%20%.%75% tel %+972%-%4%.%636%.%1594%. ext. %6%
+Tracking Voli Malpensa Login=%luca%.%vitali%@%sorin%.%com%, pwd=%gigiotto%
+Sala Riunioni R6 %87538%
+Accesso SAL0173 = Dominio SNIA, Nome Utente = Luca.Vitali, pwd = canaletto
+Roberto Barreri - Fabrizio Frassa %87089%
+Luca Senepa SKY technology %347%-%8824335%
+Nicolas Shan %+33%.%1%.%4965%.%5648% cell. %6 72 25 04 23%
+Bertrand Hecker %3432%
+Yousendit pwd=%apepoacci%
+Login CARMODEL utente=%tommasodl%.%vitali%@%libero%.%it%, pwd=%tomcars1%
+Liceo Musicale Ivrea IBAN %IT95 P 02008 30545 0000 4012 9135%
+Liceo Musicale Ivrea %Banca Unicredit Filiale Ivrea%
+Liceo Musicale Ivrea c/c %40129135% CIN %P% ABI %02008% CAB %30545%
+Monster %ag_lucag.vitali% %Canaletto0%
+Paola Perotto cell %347%.%37%.%13%.%288%
+Tessiore Manutenzione %340%-%18%.%98%.%514%
+Pascale Ducloux %3407% cell. (%06%) %76%.%12%.%04%.%26%
+Email Ale %ale%.%bresciano%@%libero%.%it% - pwd %Caffelatte0% - nickname %alebre%
+Alaa Makdissi %3338%
+Adam Eric Isabelle %02%-%33%.%01%.%17%.%63%
+Thomson Innovation login=(email lavoro) - pwd=#goodwill1
+Punti Patente %www%.%ilportaledellautomobilista%.%it% - Login=%lucaguido.vitali% pwd=%Canaletto%
+Karim Abdennour %3654% - cell. %+33%.%6%.%07%.%36%.%24%.%86%
+THEMA smaltimento rifiuti %116796%
+PWD Giannotta %0sonrfix#%
+Jean-Francois Ollivier mobile %0033%-%6%-%704%.%77%.%678%
+Davide Giaquinta %87737% - Cell. %349%-%309%.%70%.%77%
+Gaggini Genesys %011%-%21792157%  %*852521*% pin %*9081*%
+Trinchero %87420%
+Philippe Dhiver D'hiver %+33%-%1%-%4965%-%5542%
+Anna Ferruzzi %87032%
+Philippe Dhiver d'Hiver cell %06%-%07031723%
+Gabrielle Yang %+33%-%1%-%4965%-%5413%
+Sarcina ALTRAN %347%-%16%.%09%.%824%
+Giesse (Del Bono) %010%-%9189127%
+Sala Jolly / Hermes %87508%
+Aramu Andrea %117311% %340%.%3681037%
+Aramu Marco %340%.%2345665% - %117733% - email %info%@%aramutrasporti%.%com%
+Bertrand Boutaud %0033%-%1%-%4965%-%5467%
+Ruggero Santia %87659% %116937%
+David Meacci %02%-%69969%-%749% - cell %335%.%69 50 464%
+Gregoire Veber %87522%
+Luciano Di Maio %334%-%3636848%  - %338%-%4288447%
+Luciano Di Maio %87106%
+Catherine Picard Cell 
+Trinchero Cell. %338%-%97%.%15%.%686%
+Eli Cell. 349-7114445
+Veber Cell. %335%-%495%.%240%
+Francesca MDT 347-0519317
+MarshAffinity assicurazione %www%.%marshaffinity%.%it%
+Thierry Conreux %0033%.%1%.%4965%.%5420%
+ASC Feletto - dott. Giovara - Claudia Simonelli %0124%-%490681%
+Marco Brussani %87132% cell. %329%-%1940487%
+Paola Ledda %87707%
+Marco Peccolo %87707% - cell. %338%-%77%.%27%.%450%
+Enrico Cambursano %87108% %347%-%108%.%33%.%71%
+Francesco Ferretti %87027%
+Concetta Gallo %349%-%32%-%63%-%394%
+Anne-Lise Risi --> Federica Cumia HR Personale %87720%
+Nicolas Rouchon %+33%-%1%.%4601%-%3090%
+Gianluca Di Martino BASF %335%-%684%.%81%.%82%
+Login Scribd: %lgvitali% pwd=%gozzano%
+EMDT Password: %babonzo%
+Pierpaolo Zampirolo %87396%
+ChenYuan Liu O %+65 6293 1033%  M %+65 923 02 279%
+Matthew Finlay %87167%
+MarshAffinity %02%-%48538%.%982%
+Romain Paquet %0033%-%1%.%4965%.%5512% - cell %+33%.%6%.%43%.%29%.%49%.%79% non gradisce lo si usi per lavoro
+Sandrine Durand %+33%-%1%.%4965%.%5611%
+TAXIS de l'Essonne (Gerard Messina) %06%.%09%.%17%.%29%.%94% - %06%.%60%.%49%.%97%.%76%
+Daniel Kroiss Clamart %3609%
+Roberto Caldana %87134%
+Matthew Finlay USA %+1 - 763 519 94 39%
+Matthew Finlay Personal Cell USA %651%-%353%-%3859%
+Fabio Elefante %87830% - cell %338%-%784 69 16% - Email %elefab%@%libero%.%it%
+Fabio Elefante compleanno %2%/%4%
+Andrea Vincon %87781% cell. %335%-%8268%.%907% / Clamart %1 4601 3393%
+Mylene Roussin %87096% cell. %335%-%74 27 691% - Clamart %1 4965 5456%
+Matteo crescenzi %87614%
+Elettrodo Prossimale sonRfix %IC0600 101 041%
+Marco Sandroni Dogane %87247%
+Thierry Bonjour %0041%-%79%.%25%.%14%.%808%
+Hotel Parigi Kyriad Les Ulis %01 64 46 05 06%
+Hotel Parigi Campanile Clamart %01 46 30 10 84%
+RS Components Alessandro Polimeno %334%.%37 85 503% -Email: %alessandro%.%polimeno%@%rs-components%.%com%
+PayPal login=%email casa% - PWD = %1#hw$0nAo<percento>% (case sensitive, maggiore e minore non contano)
+Carine Pastore %87543%
+BPCS login: %ITVITALIL% pwd: %bolinas18%
+Bruno Grendene %87664%
+Adrian Squires %+44%-%79%.%19%.%34%.%42%.%18%
+ore intraela login: %vitali% pwd: %vit% - v. file istruz sotto verbum\rendicontazione ore
+Terminale Medio %ELP6099%-%2% cod. %IC0600 102 070%
+Terminale Prossimale %ELP6099%-%3% cod. %IC0600 102 069%
+Pin Distale Nudo %ELP6161%-%52% cod. %IC0600 102 078%
+Pin Distale Costampato %ELP6161%-%54% cod. %IC0600 102 079%
+Anna Franceschiello %87891%
+Bruel+Kjaer Italia Ombretta Iotti %02%-%576 80 61%
+Spirale Coil Distale %ELP6042% - cod. %IC0600 
+Roberto Ferrentino Bruel+Kjaer %335%-%568 10 12%
+Roberta Ciardiello %87758% - Daniela Stoppa %87900% Cdg Controllo Gestione
+Caterina Muolo %87425%
+Marc Orellou %+33%-%1 4601 3311%
+Vincent Tanche %+33%-%1 4601 3392%
+Cecile De Jeso %+33%-%1 4601 3348% / cell. %+33 6 09 01 51 76%
+Luca Mini %347 29 43 732% email %luca%.%mini%.%freelance%@%gmail%.%com%
+Sbozzato Punta sonRfix %IC0600 101 033%
+Skype Guido nome=%guido.p.d.p% pwd=%paperino1%
+Skype Luca nome=%lucag.vitali% pwd=%Alamb1cco%
+Olivier Varomme %+33%-%1 4601 3379%
+Saverio Nucci %87466% - cell. %335%-%574 15 04%
+Riccardo Prudentino %87130%
+Elena Limiroli %87735%
+Xavier Houdy %0033%-%1%-%4601%-%3042% / cell %6 777 97 908%
+Cristiana Trebo %87520%
+Mario Corio %87668%
+RF Elettronica Rota Franco login=email casa pwd=%aspirogel%
+Nolwenn Baron %0033%-%1% %4965% %5548%
+%IC0600020156%    FILO DI RAME diam.0
+%M0600021004%     RESINA HYSOL TIPO C
+%IC0600101033%    SBOZZATO PUNTA PT/IR
+%IC0600101041%    ELETTRODO PROSS. x
+%IC0600101042%    MASSA SISMICA X SOU
+%IC0600001048%    TMF 2SK3019TL
+%M0600022003%     INDURENTE HYSOL TIP
+%IC0600112011%    ADESIVO UV DYMAX 20
+%IC2800242067%    COMPOSITE DSP + Q7-
+%IC0600102068%    BOSSOLO per SonRfix (ELP6099-22)
+%IC0600102069%    TERMINALE PROSSIMALE
+%IC0600102070%    TERMINALE MEDIO
+%IC0600102071%    TERMINALE DISTALE x
+%IC0600102072%    TERMINALE DISTALE C
+%IC0600102073%    BOCCOLA SALDATURA C
+%IC0600102074%    VITE PARYLENATA x M
+%IC0600102075%    MICROMOLLA x SOUND
+%IC0600033033%    TUBO TERMORETR. 032
+%IC2800243133%    ETICHETTA IDENTIFIC
+%IC0210003425%    ETICH. ADES. 10x5
+%IC0600013591%    COLLARINO DISTALE
+%IC0600013634%    COLLARINO MEDIO x M
+%IC0600013635%    COLLARINO PROSSIMAL
+%IC0600013646%    BOCCOLA IRRIGIDIM.
+%IC0600013650%    PASSANTE x SENSORE (ELP6161-09)
+%IC0600013651%    CAPPUCCIO in PEEK s
+%IC0600013652%    TUBICINO in PEEK
+%IC0600013653%    GIUNTO RACC.PROSS.x
+%IC0600013654%    GIUNTO DISTALE x Mi
+%IC0600003764%    CR 0504 GOHM   2
+%IC0600045003%    CERAMICA PIEZO SOUND B2 (ELP6161-04)
+%M0650005025%     ACIDO CLOROPLATINIC
+%IC0600035085%    SPIRALE PENTAFIL. M
+%IC2800246127%    PUNTA POROSA x BEST
+%M0600027009%     FLUSSANTE TIPO ALPH
+%M0600108060%     TUBO SILASTIC RX50
+%IC0600108082%    TUBO MULTILUME x Microbest (ELP6161-01)
+%M0600019006%     KESTER 63/37 C.58 F
+%IC0600109020%    PEG 4000
+%IC2800239032%    SOTTOGRUPPO TERMINALE DISTALE
+%IC2800239036%    SOTTOGR. TERMINALE MEDIO
+%IC2800239038%    SOTTOGR. TERMINALE PROSSIMALE
+%IC2800239040%    GRUPPO MASSA-MOLLA
+%IC2800239041%    SENSORE COMPLETO Sound B2
+%IC2800239042%    SUBASSEMBL.SENSORE
+%EE0033C8S263%    ADESIVO SILIC. SI 1
+%IC0600101043%    IPOTUBO in Pt/Ir 90
+%IC0600035093%    SPIRALE di TRANSIZIONE
+%EE0412S3J900%    COLLARE STEROIDE
+%IC0600001049%    TMF RUE003N02
+%IC0600013656%    TUBICINO in PEEK-OP
+%IC0600013657%    CAVO STRIPPATO NEUT
+%IC0600013655%    CAPPUCCIO in PEEK 1 (ELP6161-17)
+%IC0600033034%    TUBO TERMORETRAIB.
+%IC0600013658%    CAVO STRIPPATO ROSS
+%IC0600102079%    TERMINALE DISTALE C
+%IC0600102078%    TERMINALE DISTALE x
+%IC0600102062%    PUNTALE PER TERMINALE
+%IC0600003849%    CR 0504 MOHM 270
+Armando Bersano %87537% - cell. %335%-%8268 906%
+%EE0528C7K122%    ELETTRODO PROSSIMALE PREMARCATO (Accellent)
+Johanna Laversin %3381%
+REP4067 - Component verification report for ELP6100-14 Distal collar
+REP4066 - Component verification report for ELP6161-7 Distal Joint
+REP4063 - Component verification report for ELP6099-5 Medium collar
+REP4061 - Component verification report for ELP6161-6 Proximal Joint
+REP4054 - Component verification report for ELP6099-6 Proximal collar
+REP3980A - SONRTIP LEAD CLEANING VALIDATION
+REP3969A - REPORT OF THE TEST FOR SONR TIP LEAD LABEL IDENTIFICATION DUE TO THE CHANGE FOR INTRODUCT
+REP3968A - INSTALLATION QUALIFICATION REP FOR SONR IDENTIFICATION LABEL PRINTER
+REP3468A - TEST REPORT FOR LABELING SOFTWARE UPDATE - CD-ROM INSERTION FOR SONRTIP EUROPE LEAD AND K
+REP3248A - SONRTIP LEAD VERIFICATION REP AFTER STERIGENICS STERILIZATION CYCLE
+REP3193B - CD-ROM IFU DESIGN VERIFICATION REPORT
+REP3190A - COMPOSITE MIXING PROCESS VALIDATION REPORT
+REP3124A - VERIFICATION REPORT OF G596 CARTON BOX PROPERTIES AFTER STERILIZATION PROCESS.
+REP3088A - ETHYLENE OXIDE STERILIZATION VALIDATION OF SON-R LEAD IN THE SECONDARY PACKAGING CONFIGU
+REP3040A - IQ REPORT FOR PNEUMATIC MOULDING SYSTEM CARVER MOD. 34000-900
+REP3006A - PERFORMANCE QUALIFICATION REPORT FOR LASER WELDING PROCESSES ON PACEMAKER H-FLANGE FAMILI
+REP2932C - IQ REPORT FOR PNEUMATIC MOULDING SYSTEM CARVER MOD. ACCUSTAMP 300
+REP2877A - TEST REPORT TO VALIDATE LEAD LABELING SOFTWARE TO ADD LEAFLET FOR SONRTIP EUROPE
+REP2871A - PQ REPORT FOR LASER WELDING OF SONR SENSOR SOUND B2 WITH OSAI\JK125PS LASER SYSTEM
+REP2866A - VALIDATION REPORT FOR SONR SENSOR CAN AND FEEDTHROUGH LASER WELDING WITH OSAI/JK125PS LAS
+REP2822A - LABELING SOFTWARE CHANGE FOR SONRTIP LEAD USA TO EXTEND SHELF LIFE TO 6 MONTHS
+REP2786A - LABELING SOFTWARE CHANGE FOR SONRTIP CANADA INTRODUCTION ADD-ON: CHANGING/REMOVING STERI
+REP2769A - DESIGN VERIFICATION REPORT OF FT0604TT EPOXY RESIN AND CERAMIC COMPONENT ELP6161-4
+REP2720A - ANALYSIS OF HYSOL RESIN AFTER BOTTLE OPENING
+REP2709A - LABELING SOFTWARE CHANGE FOR SONRTIP USA INTRODUCTION
+REP2697A - SONRFIX LEAD – REAL TIME SHELF LIFE AGING VERIFICATION REPORT
+REP2632B - INSTALLATION QUALIFICATION OF THE GETSOLDER SW ENVIRONMENT ON THE LEADS ELECTRICAL WELDI
+REP2578A - IQ REP FOR UV LAMP DYMAX BLUE WAVE 50
+REP2554A - TEST REPORT FOR SOFTWARE CHANGE TO LEAD LABELING PRINTING SW
+REP2470A - QUALIFICATION REPORT FOR RUE003N02 TRANSISTOR IC0600-001/049 LOT 1205140024, 1205070015, 
+REP2469A - QUALIFICATION REPORT FOR RUE003N02 TRANSISTOR IC0600-001/049 LOT 1202090026
+REP2439B - IQ REP FOR NEW VIBRATION TEST BENCH FOR SONRTIP
+REP2368A - COMPONENT VALIDATION REPORT FOR ELP6161-17 CAPPUCCIO STAMPATO SUPPLIED BY PULSE TECHNOLOG
+REP2367A - COMPONENT VALIDATION REPORT FOR ELP6161-03 SOUND B2 SEISMIC MASS SUPPLIED BY PULSE TECHNO
+REP2350A - COMPONENT VALIDATION REPORT FOR ELP6068-03 POROUS TIP SUPPLIED BY PULSE TECHNOLOGIES
+REP2330E - SONRTIP STEROID COLLAR STABILITY REPORT
+REP2325A - TEST REPORT FOR SOFTWARE CHANGE TO IMPLEMENT TLD0013
+REP2275A - L08040 V.1.09 - LABELING SOFTWARE MODIFICATION REPORT
+REP2257A - COMPONENT VALIDATION REPORT FOR G596 IDENTIFICATION BOX FOR LEAD SUPPLIED BY CAIMI
+REP2168A - COMPONENT VALIDATION REPORT FOR ELP6099-22 CAN SUPPLIED BY ACCELENT AS NEW SUPPLIER
+REP2167B - COMPONENT VALIDATION REPORT FOR ELP6161-08 SCREW COIL Ø0.27 SUPPLIED BY HERAUES.
+REP2165C - IQ REP FOR SONRFIX VIBRATION TEST WORKBENCH
+REP2158B - LABEL SOFTWARE MNODIFICAITON REPORT FOLLOWING PLAN1350B - SONRTIP LABEL CHANGE 
+REP2152A - COMPONENT QUALIFICATION REP FOR "GUIDE BUMP SUTURE SLEEVE" UNSLIT (G690) AND SLIT (G691) 
+REP2131B - K178 DESIGN VERIFICATION REP
+REP2112B - SONRFIX LEAD DESIGN VERIFICATION REPORT : LEAD ABRASION AND TIP PRESSURE
+REP2016C - SONRFIX LEAD DESIGN VERIFICATION REPORT - FATIQUE RESISTANE AND INTERNAL ABRASION
+REP2001A - PROVA DI VERIFICA FABBRICAZIONE SONRFIX
+REP1869A - INSTALLATION QUALIFICATION REPORT FOR M95144 V.34 – (TAC0045, TAC0046 SONRTIP KIT INSERTI
+REP1866A - TAC0045, TAC0046 SONRTIP KIT INSERTION 
+REP1836A - IQ REP FOR BLU WAVE 500 UV CURING EQUIPMENT
+REP1775A - IQ REP FOR SECUFLOW LOW CEILING FUME HOOD 120 WALDNER
+REP1766A - PQ REPORT FOR SONRFIX QF LEAD MANUFACTURING
+REP1765A - TEST REPORT FOR DATABASE DBTESTALL V1.0.6.248 USED AT LEAD LABELLING BENCH
+REP1750A - IQ REP FOR PNEUMATIC MACHINE (001) AND TIMER (PE026) 
+REP1744B - IQ REP FOR OVEN BICASA BE 35 (PE015)
+REP1743A - IQ REP FOR POWER SUPPLY ELIND 60HL10
+REP1645A - RAPPORTO VALIDAZIONE PROCESSO STERILIZZAZIONE SONRFIX QF
+REP1644A - TR-10012-01 VALIDAZIONE STERILIZZAZIONE AD OSSIDO DI ETILENE CICLO BIOSTER BC-1 DISPOSITI
+REP1643A - RVP13-1 - RAPPORTO DI VALIDAZIONE SALDATURA LASER DEL BOSSOLO CON L'ASSEMBLATO SENSORE MI
+REP1608A - TWO PARTS EPOXY MIXER IQ
+REP1532E - SONRFIX LEAD DESIGN VERIFICATION REPORT
+REP1504A - PROCESS VALIDATION REP FOR LASER WELDING OF PREMARKED PROXIMAL ELECTRODE TO MICROCABLE FO
+REP1503A - COMPONENT QUALIFICATION REP FOR K122 PREMARKED PROXIMAL ELECTRODE FOR SONRFIX QF
+REP1502A - PROCESS VALIDATION REP FOR RESISTANCE WELDING OF TERMINALE PROSSIMALE TO MICROCABLE FOR S
+REP1501A - PROCESS VALIDATION REP FOR RESISTANCE WELDING OF TERMINALE MEDIO TO MICROCABLE FOR SONRF
+REP1500B - COMPONENT QUALIFICATION REP FOR ELP6099-02 TERMINALE MEDIO
+REP1422A - QUALIFICATION REPORT FOR 270 MEGOHM 0504 SMD RESISTOR COD. IC0600-003/849
+REP1412A - SONRFIX QF PROXIMAL ELECTRODE TO NEUTRAL MICROCABLE LASER WELD OQ REPORT
+REP1298C - IQ REPORT VACUUM PUMP CITO VAC
+REP1269D - SONRFIX QF INPUT / OUTPUT TRACEABILITY MATRIX
+REP1257D - SOUND B2 ACCELEROMETER VERIFICATION REPORT
+REP1249B - STYLETS FOR SONRFIX LEAD
+REP1228A - SONRFIX LEAD DESIGN VERIFICATION REPORT
+REP1174A - QUALIFICATION REPORT OF RUE003N02 TRANSISTOR
+REP1139A - LASER WELDING PROCESS VALIDATION REPORT OF SONRFIX MICROCABLE AND PROXIMAL ELECTRODE 
+REP1100A - PROXIMAL RING ELECTRICAL SPOT WELDING PROCESS
+REP1099A - MEDIUM RING ELECTRICAL SPOT WELDING PROCESS
+REP1088D - IQ REPORT FOR ELECTRICAL WELDING MACHINE (HCD 300-C01 S/N 499 SORIN CODE PE366)
+REP1086A - COMPONENT QUALIFICATION REPORT FOR PROXIMAL PIN ELP6099-3 
+REP1085A - COMPONENT QUALIFICATION REPORT FOR SHRINKABLE TUBE ELP6161-48
+REP1084A - COMPONENT QUALIFICATION REPORT FOR TRANSITION COIL ELP6161-50
+REP1083A - COMPONENT QUALIFICATION REPORT FOR INTERNAL PIN ELP6100-4
+REP1082A - COMPONENT QUALIFICATION REPORT FOR COMOULDED PIN ELP6161-54
+REP1080A - COMPONENT QUALIFICATION REPORT FOR PROXIMAL COLLAR ELP6099-6
+REP1079A - COMPONENT QUALIFICATION REPORT FOR PACING COIL ELP6042
+REP1075A - SONRFIX CONNECTOR SIDE CRIMPING EQUIPMENT IQ 
+REP1073B - DISTAL PIN AND COIL CRIMPING PROCESS
+REP1068A - LASER WELDING OQ PROCESS VALIDATION REPORT OF SONR TRANSITION COIL AND PROXIMAL ELECTRODE
+REP0546B - SPRING / MASS LASER WELDING OQ REPORT
+REP0534B - COMPONENT QUALIFICATION REPORT FOR MICROCOIL ELP6161-20 / SISMIC MASS ELP6161-3
+REP0524B - VALIDATION OF SILICONE COMPONENTS MANUFACTURED BY "MEDIGLOBE CARDIO PLAST" FOR MICROBEST 
+REP0523B - MICROBEST LEAD: CONNECTOR TEMINALS AND "OSCOR" SENSOR CAN VALIDATION 
+REP0491C - SONRFIX HYPOTUBING/STRAND CABLE CRIMPING PROCESS IQ REPORT
+REP2205B - STEROID COLLAR COMPONENT QUALIFICATION REPORT FOR J900 U.S.A. MARKET
+REP1075A - SONRFIX CONNECTOR SIDE CRIMPING EQUIPMENT IQ 
+REP0627A - VR - 0096 REV. A - PQ FIXED SCREW PEG PROTECTION 
+REP0626A - VR - 0093 REV. A - OQ FIXED SCREW PEG PROTECTION 
+REP0551A - VR0083A - MICROBEST 2 CRIMPING IQ PROCESS VALIDATION REPORT
+REP0550A - VR0082A - MICROBEST 2 CRIMPING OQ PROCESS VALIDATION REPORT
+REP0549A - VR - 0080 REV. A - MICROBEST 2 CABLE PROXIMAL ELECTRODE LASER WELDING OQ PROCESS VALIDATI
+REP0548A - VR0079A - MICROBEST 2 COIL PIN LASER WELDING OQ PROCESS VALIDATION REPORT
+REP0547A - VR - 0077 REV. A - MICROBEST 2 FEEDTHROUGH/TI CAN LASER WELDING OQ PROCESS VALIDATION REP
+REP0545A - VR0072-01A - SONRFIX DESIGN VALIDATION REPORT
+REP0543B - VR0042-03 REV.A - PUNTATURA ELETTRICA SPIRALE PENTAFILARE - TERMINALE DISTALE CONNETTORE 
+REP0542B - VR0042-02 REV.A - PUNTATURA ELETTRICA CAVO ISOLATO - TERMINALE MEDIO CONNETTORE MICROBEST
+REP0541B - VR0042-01A - PUNTATURA ELETTRICA CAVO ISOLATO - TERMINALE PROSSIMALE CONNETTORE MICROBEST
+REP0540A - VR0033-04 - SALDATURA LASER BOCCOLA AISI - PIN PT/IR 90/10 PASSANTE ELETTROCATETERE MICRO
+REP0539A - VR0033-03 - SALDATURA LASER BOSSOLO TI - PUNTA PT ELETTROCATETERE MICROBEST
+REP0538A - VR0033-02 - SALDATURA LASER BOCCOLA AISI - CAVO ISOLATO ELETTROCATETERE MICROBEST
+REP0537A - CVR029-A - COMPONENT QUALIFICATION REPORT FOR PIEZOELECTRIC CERAMIC ELP 6161-4
+REP0536A - CVR028-A - COMPONENT QUALIFICATION REPORT FOR PART ELP 6161-9 "PASSANTE"
+REP0535A - CVR027-A - COMPONENT QUALIFICATION REPORT FOR PART ELP 6161-8 "VITE PARYLENATA"
+REP0533A - CVR025-A - COMPONENT QUALIFICATION REPORT FOR MULTILUMEN TUBE ELP 6161-1
+REP0532A - CVR024-A - COMPONENT QUALIFICATION REPORT FOR SHRINKABLE TUBE ELP 6161-2
+REP0531A - CVR023-A - COMPONENT QUALIFICATION REPORT FOR PEEK PARTS ELP 6161-17 AND 6161-16
+REP0530A - CVR - 022 - B REV. A - COMPONENT VALIDATION REPORT FOR SILICON PARTS ELP 6161-6 AND ELP 6
+REP0529A - CVR-022-A - COMPONENT QUALIFICATION REPORT FOR SILICON PARTS ELP 6161-6 AND ELP 6161-7 
+REP0528A - CVR021-A - COMPONENT QUALIFICATION REPORT FOR PROXIMAL ELECTRODE ELP 6161-5
+REP0527A - CVR018 - VALIDAZIONE APPLICAZIONE COMPONENTE PER MICROBEST: ADESIVO DYMAX 204-CTH
+REP0526A - CVR017- A - VALIDAZIONE COMPONENTE BOCCOLA DI SALDATURA PER MICROBEST FORNITO DA POPPER &
+REP0525A - CVR-016 - VALIDAZIONE COMPONENTI PER MICROBEST FORNITI DA LAMP S.R.L. 
+REP0524A - CVR013 - VALIDAZIONE COMPONENTI STAMPATI IN SILICOLE DA MEDIGLOBE CARDIOPLAST PER ELETTRO
+REP0523A - CVR-011-02-A - VALIDAZIONE TERMINALI E BOSSOLO OSCOR PER ELETTROCATETERE MICROBEST
+REP0522A - CVR011-01-A - VALIDAZIONE TERMINALI E BOSSOLO OSCOR PER ELETTROCATETERE MICROBEST
+REP0520A - COMPONENT QUALIFICATION REPORT FOR PART ELP6099-6
+REP0491A - SONRFIX HYPOTUBING/STRAND CABLE CRIMPING PROCESS IQ REPORT
+REP0319A - SONRFIX PU CONE/SI HOOD PLASMA TREATMENT OQ REPORT
+REP0243A - LASER WELDING OQ PROCESS VALIDATION REPORT OF SONRFIX PT HYPOTUBE WITH PT PIN’S FEEDTHROU
+REP0217A - SONRFIX PROXIMAL PIN/CABLE ELECTRICAL SPOT WELDING
+REP0214A - SONRFIX PLASMA TREATMENT IQ
+REP0176A - PROXIMAL ELECTRODE/CABLE LASER WELDING PROCESS
+REP0175A - SONRFIX ELECTRICAL SPOT WELDING PROCESS
+REP0173A - SONRFIX BUSH/CABLE CRIMPING PROCESS
+REP0132A - COMPONENT QUALIFICATION REPORT FOR ELP 6161-19 ‘‘SUB-ASSEMBLY STRIPPED AND WELDED MICRO-C
+REP0131A - COMPONENT QUALIFICATION REPORT FOR ELP 6161-25 ‘‘IPOTUBO PT/IR 90/10’’
+REP0130A - COMPONENT QUALIFICATION REPORT FOR ELP 6161-5 ‘‘ELETTRODO PROSSIMALE’’
+REP0023A - VALIDATION REPORT SONRFIX FEEDTHORUGH/TI CAN LASER WELDING
+REP0005A - COMPONENT VALIDATION FOR PART ELP 6161–9 (FEEDTHROUGH) BY GREATBATCH
+REP0216A - SONRFIX MEDIUM PIN/CABLE ELECTRICAL SPOT WELDING
+REP3309 - STERILANT GAS RESIDUAL ANALYSIS - STERIGENICS PR-14-048R 
+REP3308 - HALF CYCLE STUDY - STERIGENICS PR-13-207
+REP3307 - FRACTIONAL CYCLE STUDY - STERIGENICS PR-13-150 
+REP0768 - STERILE PACKAGING SEALING PROCESS: HEAT-SEALING PROCESS
+REP0672 - L08040 LABEL PRINTING SOFTWARE FOR LEADS, KITS AND ACCESSORIES
+REP4045 - SONRTIP LEAD DESIGN VERIFICATION REP - LEAD TO CAN ABRASION AND FATIGUE RESISTANCE
+OG SonRtip = %OG329 (OG00329)%
+Stock Options Incentivi Merryll Lynch login=%Livalti2016% pwd=%#Primavera1%
+Stock Options Incentivi Song=%Falling Grace% - Barbiere=%Michele% - Manager=%Claudio%
+Account RS Components: login=%lgvitali% pwd=%lgvrs01%
+Nuovo Pin Ale %0320%
+MISC0287 - List of applicable Standards for Leads
+Marco Cafueri %87703%
+Guillaume LeBel %1 4965 5435
+Dario Mellina %IZ1GCQ%
+Taxi Alain Cacheux %+33 6 45 51 28 44%
+Brady Wireless Cost Center Centro di Costo FR10A01417
+Dominique Decoene %3445%
