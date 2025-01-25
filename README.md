@@ -2,7 +2,7 @@
 
 ---
 
-**Lookup** è un programma leggero progettato per consentire la ricerca di contenuti all'interno di uno o due file di testo. Creato per soddisfare un'esigenza personale di mio papà (Luca), il nome del programma deriva dal suo nome e dal termine inglese "to look up" (cercare), che descrive perfettamente la funzione principale del software: aiutare a trovare rapidamente ciò di cui si ha bisogno.
+**Lookup** è un programma leggero progettato per consentire la ricerca di contenuti all'interno di uno o due file di testo, basandosi quindi su un database arbitrariamente eterogeneo. Creato per soddisfare un'esigenza personale di mio papà (Luca), il nome del programma deriva dal suo nome e dal termine inglese "to look up" (cercare), che descrive perfettamente la funzione principale del software: aiutare a trovare rapidamente ciò di cui si ha bisogno.
 
 Questo strumento è ideale per chi desidera archiviare e recuperare informazioni velocemente, come libri letti, file di lavoro, email o contatti telefonici.
 
