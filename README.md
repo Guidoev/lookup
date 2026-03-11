@@ -19,7 +19,7 @@ Questo strumento è ideale per chi desidera archiviare e recuperare informazioni
 - **Modifica rapida**: Una scorciatoia ti permette di aprire rapidamente il file per modificarlo.
 - **Righe aggregate**: Puoi definire righe aggregate per visualizzare una sorta di gerarchia: ponendo alla fine di una riga il carattere '\\', la riga successiva nel file sarà collegata alla precedente e l'aggregato sarà a tutti gli effetti considerato come una riga sola (se una delle righe dell'aggregato ha una corrispondenza con il token di ricerca, nel risultato compariranno tutte).
 - **Evidenziazione personalizzata**: Alcuni campi possono essere evidenziati in rosso per facilitarne l'individuazione racchiudendoli tra '%' (Ad esempio Hello %World% farà sì che il termine "World" risulti evidenziato.
-
+- **Inserimento link**: Puoi definire link a file o ad un sito internet, permettendo di navigare alla cartella o di aprire direttamente il file/sito.
 ---
 
 ## Screenshot
