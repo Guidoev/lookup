@@ -31,12 +31,6 @@ Questo strumento è ideale per chi desidera archiviare e recuperare informazioni
 
 ---
 
-## Contribuire
-
-Se vuoi contribuire a questo progetto, fai un fork del repository, crea un ramo per la tua feature o correzione e invia una pull request. Assicurati di seguire lo stile di codifica e includere test quando possibile.
-
----
-
 ## Licenza
 
 Questo progetto è sotto licenza **Creative Commons**. Vedi il file `LICENSE` per maggiori dettagli.
