@@ -1,0 +1,17 @@
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.csproj.AssemblyReference.cache
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.csproj.GenerateResource.cache
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.AssemblyInfoInputs.cache
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.AssemblyInfo.cs
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.csproj.CoreCompileInputs.cache
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.PwdForm.resources
+D:\Guido\Desktop\Project Papo\PwdBrowser\bin\Debug\net6.0-windows\PwdBrowser.exe
+D:\Guido\Desktop\Project Papo\PwdBrowser\bin\Debug\net6.0-windows\PwdBrowser.deps.json
+D:\Guido\Desktop\Project Papo\PwdBrowser\bin\Debug\net6.0-windows\PwdBrowser.runtimeconfig.json
+D:\Guido\Desktop\Project Papo\PwdBrowser\bin\Debug\net6.0-windows\PwdBrowser.dll
+D:\Guido\Desktop\Project Papo\PwdBrowser\bin\Debug\net6.0-windows\PwdBrowser.pdb
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.dll
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\refint\PwdBrowser.dll
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.pdb
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\PwdBrowser.genruntimeconfig.cache
+D:\Guido\Desktop\Project Papo\PwdBrowser\obj\Debug\net6.0-windows\ref\PwdBrowser.dll

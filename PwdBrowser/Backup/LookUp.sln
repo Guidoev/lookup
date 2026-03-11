@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LookUp", "LookUp.csproj", "{A25F04D7-F09C-4E87-B4CD-03AFBC5E9F7F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LookUp_Setup", "..\PwdBrowser_Setup\PwdBrowser_Setup.vdproj", "{B9DFD56E-7096-49CE-A772-A5DA3A1FF5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25F04D7-F09C-4E87-B4CD-03AFBC5E9F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25F04D7-F09C-4E87-B4CD-03AFBC5E9F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25F04D7-F09C-4E87-B4CD-03AFBC5E9F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25F04D7-F09C-4E87-B4CD-03AFBC5E9F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DFD56E-7096-49CE-A772-A5DA3A1FF5FB}.Debug|Any CPU.ActiveCfg = Debug
+		{B9DFD56E-7096-49CE-A772-A5DA3A1FF5FB}.Debug|Any CPU.Build.0 = Debug
+		{B9DFD56E-7096-49CE-A772-A5DA3A1FF5FB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D75890E-C079-4B80-BDD6-45A28A852175}
+	EndGlobalSection
+EndGlobal

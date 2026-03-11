@@ -1,0 +1,2 @@
+D:\Guido\Desktop\Project Papo\TEL.txt ? True
+D:\Guido\Downloads\CSV\Diametro 12.csv ? False

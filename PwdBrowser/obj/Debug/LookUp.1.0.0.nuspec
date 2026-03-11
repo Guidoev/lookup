@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LookUp</id>
+    <version>1.0.0</version>
+    <authors>LookUp</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="b331fc467d4c20ea39702c5b6805081824df92e2" />
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.19041" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows10.0.19041">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows10.0.19041/Icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Guido\Documents\Programming\Project Papo\PwdBrowser\bin\Debug\net6.0-windows10.0.19041.0\LookUp.runtimeconfig.json" target="lib\net6.0-windows10.0.19041\LookUp.runtimeconfig.json" />
+    <file src="D:\Guido\Documents\Programming\Project Papo\PwdBrowser\bin\Debug\net6.0-windows10.0.19041.0\LookUp.dll" target="lib\net6.0-windows10.0.19041\LookUp.dll" />
+    <file src="D:\Guido\Documents\Programming\Project Papo\PwdBrowser\Icon.ico" target="content\Icon.ico" />
+    <file src="D:\Guido\Documents\Programming\Project Papo\PwdBrowser\Icon.ico" target="contentFiles\any\net6.0-windows10.0.19041\Icon.ico" />
+  </files>
+</package>
